@@ -7,7 +7,7 @@
 * **Developer:** ปิติพล สกุลเรืองรักษ์ / กัญจน์ (Pitiphol Sakulruangrak / Gann)
 * **Role:** Junior Game Developer & Lua Scripter
 * **Lead Mentor:** Sakchai Sakulruangrak (Dad) / (System Architect)
-* **Project Base:** E:\\son-logbook\\gann\\roblox-studio-portfolio
+* **Project Base:** Sons-Logbook\\Github-Gann\\roblox-studio-portfolio
 
 ## 📸 The Origin: Day One (จุดเริ่มต้นการเดินทาง)
 ![[260305-gann-first-day.jpg]]
